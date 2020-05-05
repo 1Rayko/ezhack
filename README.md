@@ -1,13 +1,14 @@
 #Сборник утилит ezhack:#
 в нем есть:
-Локер
-Шифровальщик
-Локер+Шивровальшик
-утилита для брутфорса ZIP архива(4000+ паролей в секунду
-Билдер простого стиллера(копирует файлы из указанной директории)
-все файлы от утилит сохраняются в директории с одноименным названием к утилите
-
+[1] - cryptor
+[2] - brutehash
+[3] - locker
+[4] - locker+crypt
+[5] - bruteZIP
+[6] - stealer
+[7] - pyVIRRUS
+.
 Инструкции к каждой из утилит:
-https://www.youtube.com/playlist?list=PLd-kTafWJCJP1KZa3kSjOyO7ugXK74zqi
+https://www.youtube.com/playlist?list=PLd-kTafWJCJP1KZa3kSjOyO7ugXK74zqi .
 ВСЕ ПРОБЛЕМЫ НА ВАШЕЙ СОВЕСТИ
 
