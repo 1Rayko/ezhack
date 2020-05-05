@@ -9,3 +9,5 @@
 
 Инструкции к каждой из утилит:
 https://www.youtube.com/playlist?list=PLd-kTafWJCJP1KZa3kSjOyO7ugXK74zqi
+ВСЕ ПРОБЛЕМЫ НА ВАШЕЙ СОВЕСТИ
+
