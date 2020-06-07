@@ -38,7 +38,7 @@ while True:
         os.system('clear')
         os.system('python3 builder_cl.py')
     elif a ==('4'):
-        os.chdir('bruteZIP')
+        os.chdir('brutreZIP')
         os.system('clear')
         os.system('python3 brutezip.py')
     elif a ==('5'):
